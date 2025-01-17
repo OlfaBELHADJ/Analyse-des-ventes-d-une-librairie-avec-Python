@@ -1,3 +1,6 @@
+##Titre##:
+
+Projet réalisé dans le cadre de ma formation Data Analyst 
 vous allez apprendre à analyser des indicateurs et des corrélations 
 et à réaliser des statistiques descriptives. Vous utiliserez les différentes librairies 
 Python pour générer vos propres graphiques afin de synthétiser l'information que vous présenterez.
@@ -5,7 +8,7 @@ Python pour générer vos propres graphiques afin de synthétiser l'information 
 L’entreprise Lapage était originellement une librairie physique avec plusieurs points de vente. 
 Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. 
 
-La structure a besoin d’aide pour mieux comprendre ses données, c’est pourquoi elle vous a recruté. 
+La structure a besoin d’aide pour mieux comprendre ses données, c’est pourquoi elle a recruté. 
 Vous intervenez en tant que Data Analyst afin de faire le point sur l’activité. 
 
 faire le point global sur les différents indicateurs et chiffres clés de l’entreprise. 
